@@ -1,2 +1,2 @@
 # Rot13.5
-Famous symmetrical rotational cipher ROT13 but with decimal numbers too
+The famous symmetrical rotational cipher ROT13 but with decimal numbers too and a website cause I wanna use it on my phone lol
