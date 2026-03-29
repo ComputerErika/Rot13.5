@@ -1,0 +1,22 @@
+body {
+  background-color: slategray;
+  font-family: Sans-Serif;
+  text-align: center;
+}
+h1 {
+  margin-bottom: 0.1em;
+}
+h2 {
+  font-size: 1em;
+  font-weight: normal;
+  margin: 0 auto 5em auto;
+}
+.arrow {
+  font-size: 2.0em;
+  font-weight: bold;
+  margin: 0;
+}
+.warning {
+  background-color: brown;
+  padding: 0.4em 0.75em;
+}
